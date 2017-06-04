@@ -1,0 +1,39 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>Akshaya</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 style="color:navy">About Me!<br></h1>
+    
+     <main>
+ <div >
+ <strong> Hello!This is Akshaya! </strong></div>
+   <h4> <p>How would I begin to describe     me?<br>Alright,so let's go with my positive attributes(Rings a bell?)<br>
+  Am an optimistic,enthusiastic person who is always ready for something new.<br>Akshaya is someone who reads a lot of books,stands for what she believes<br> and boosts you up even when you feel
+         awfully low.<br>
+That done and said,I might be very difficult to handle switching between extreme <br>extrovertism 
+     and intimidating intovertism.I easily trust people  and not very active in social networking sites.<br>
+Things which am interested in are not always things I am good at!<br>
+     So that's all I can tell about me!<br></h4>
+         
+ </main>
+  <foot >
+    <p style="font-style:italic">Favourite Books</p>
+    <ul id="book">
+      <a href="http://hpwishlist.warnerbros.com/" title="Hp!!Everyone's favourite"><li><img src="harrypotter.jpeg" style="width:200px;height:300px"></li></a>
+      <a href="http://danbrown.com/" title="Dan Brown"><li><img src="danbrown.png " style="width:200px;height:300px"></li></a>
+      <li><img src="ps.jpeg" style="width:200px;height:300px" title="P.S.I love you"></li>
+    </ul> 
+   <aside>
+     <br>
+     <br>
+     <br><br><br>
+     <a href="https://www.facebook.com/akshaya.l.7"><img src="akshaya.jpg" style="height:320px"></a>
+    <ul>
+      <li>Student at NITT</li>
+      <li>Festember OC member</li>
+      <li>Ambivert</li>
+      <li>Loves food</li>
+      </aside>

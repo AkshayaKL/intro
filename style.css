@@ -1,0 +1,45 @@
+h1
+{ 
+  
+  position:relative;
+  left:25px;
+  top: 25px;
+  background-color:pink;
+  font-family:"Times New Roman",Georgia,Serif;
+  font-style:oblique;
+  width:820px;
+  text-align:center;
+  border-style:solid;
+  border-color:black;
+ border-radius:15px;
+}
+main
+{font-style:oblique;
+  background-color:rgb(230,230,250);
+  width:820px;
+  text-align:center;
+  position:relative;
+  left:25px;
+border-radius: 15px;
+  border-style:solid;
+  border-color:black;
+}
+ul#book li {
+    display:inline;
+}
+aside
+{
+  position:absolute;
+  left: 890px;
+  top:0px;
+}
+body
+{
+background:url(/home/home/Desktop/spidertask/picture.jpg);
+}
+img:hover
+{
+ transform:scale(1.25);
+ 
+}
+
